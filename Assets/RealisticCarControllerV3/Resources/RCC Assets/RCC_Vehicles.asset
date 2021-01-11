@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28aa1cee2825c4042950c60237e3e814, type: 3}
+  m_Name: RCC_Vehicles
+  m_EditorClassIdentifier: 
+  vehicles:
+  - {fileID: 11495930, guid: 0722a9e01046ddd4289c83d741ad6252, type: 2}
+  - {fileID: 114921465706407492, guid: 3fff5b71e380f6348aa33b581d422bd2, type: 2}
+  - {fileID: 11409208, guid: a404321611e983a4ea9bf400a193b597, type: 2}
+  - {fileID: 11445608, guid: 95e7c8aa10c9a4c4f921221f267ae055, type: 2}
+  - {fileID: 11444474, guid: 4e587cd0df47fbc49b5c3bff314d1974, type: 2}
+  - {fileID: 114571143157923052, guid: 582ec036f71d2b84590c26a52a0a52b6, type: 2}
+  - {fileID: 11421802, guid: 6fa73193fc7c3a040acf01c5757f473a, type: 2}
+  - {fileID: 11499070, guid: 0295a61c2e7e21544867a415e2b6b5f4, type: 2}
+  - {fileID: 11490338, guid: f06ac96efe73a7443b281e572e36f1d0, type: 2}
